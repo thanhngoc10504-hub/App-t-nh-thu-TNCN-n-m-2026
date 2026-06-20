@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="App Tính Thuế TNCN Việt Nam 2026", page_icon="💰", layout="centered")
 
 # --- CHÈN LOGO THEO FILE TRỰC TIẾP ---
-st.image("logo.jpg")
+st.image("logo.jpg.jfif")
 
 # --- THÔNG TIN THÀNH VIÊN VÀ ĐỀ TÀI ---
 st.markdown("### 📝 **TS. VŨ ĐỨC BÌNH**")
